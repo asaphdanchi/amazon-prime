@@ -1,0 +1,10 @@
+<distributionManagement>
+    <snapshotRepository>
+        <id>gitlab</id>
+        <url>https://gitlab.com/api/v4/projects/YOUR_PROJECT_ID/packages/maven</url>
+    </snapshotRepository>
+    <repository>
+        <id>gitlab</id>
+        <url>https://gitlab.com/api/v4/projects/YOUR_PROJECT_ID/packages/maven</url>
+    </repository>
+</distributionManagement>
